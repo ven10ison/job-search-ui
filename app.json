@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "portfolio-5-job-search",
+    "slug": "portfolio-5-job-search"
+  }
+}
